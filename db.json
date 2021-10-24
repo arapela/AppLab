@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3,
+    "descripcion": "AMINOACIDOS EN MATERIA PRIMA\n",
+    "matriz": "Lacteos",
+    "efector": "FQ - Fisico-quimica",
+    "id_pasos": [
+      1,
+      2,
+      1,
+      1
+    ],
+    "version": 1,
+    "fecha_version": "2021-10-23T17:50:15.915Z"
+  },
+  {
+    "id": 2,
+    "descripcion": "FISICO-QUIMICO DE AGUAS\n",
+    "matriz": "Carne",
+    "efector": "GC - Cromatografía Gaseosa",
+    "id_pasos": [
+      1,
+      4
+    ],
+    "version": 1,
+    "fecha_version": "2021-10-23T17:49:06.911Z"
+  },
+  {
+    "id": 1,
+    "descripcion": "PERFIL DE ACIDOS GRASOS",
+    "matriz": "Miel",
+    "efector": "HPLC - Cromatografía Liquida",
+    "id_pasos": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "version": 1,
+    "fecha_version": "2021-10-15T22:37:40.277Z"
+  }
+]
